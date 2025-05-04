@@ -1,6 +1,6 @@
 # ComfyUI_KimiVL
 
-[https://huggingface.co/google/gemma-3-27b-it](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking)
+https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking
 
 ![image](workflow.png)
 
